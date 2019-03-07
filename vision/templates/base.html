@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-{% load static %}
+{% load staticfiles %}
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -17,7 +17,8 @@
         <p> Hello, Universe!</p>
     </div>
 
-<p> {{ static }} </p>
+<p> BASE_DIR {{ BASE_DIR }} </p>
+<p> STATICFILES_DIRS {{ STATICFILES_DIRS }} </p>
 
 </body>
 </html>
