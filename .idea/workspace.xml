@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc7e8cc5-730f-4ea4-9466-8a2771ef8539" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vision/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/vision/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vision/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/vision/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vision/static/css/linia42.css" beforeDir="false" afterPath="$PROJECT_DIR$/vision/static/css/linia42.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vision/templates/linia42.html" beforeDir="false" afterPath="$PROJECT_DIR$/vision/templates/linia42.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,12 +13,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vision/templates/linia42.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+            <state relative-caret-position="1900">
+              <caret line="273" column="142" selection-start-line="273" selection-start-column="142" selection-end-line="273" selection-end-column="142" />
             </state>
           </provider>
         </entry>
@@ -27,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vision/static/css/linia42.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            <state relative-caret-position="759">
+              <caret line="441" column="15" selection-start-line="441" selection-start-column="15" selection-end-line="441" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -38,6 +37,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>0512</find>
+      <find>flex</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -47,9 +47,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/vision/settings.py" />
-        <option value="$PROJECT_DIR$/vision/templates/linia42.html" />
         <option value="$PROJECT_DIR$/vision/urls.py" />
         <option value="$PROJECT_DIR$/vision/views.py" />
+        <option value="$PROJECT_DIR$/vision/templates/linia42.html" />
         <option value="$PROJECT_DIR$/vision/static/css/linia42.css" />
       </list>
     </option>
@@ -205,15 +205,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vision/templates/linia42.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+        <state relative-caret-position="1900">
+          <caret line="273" column="142" selection-start-line="273" selection-start-column="142" selection-end-line="273" selection-end-column="142" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vision/static/css/linia42.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        <state relative-caret-position="759">
+          <caret line="441" column="15" selection-start-line="441" selection-start-column="15" selection-end-line="441" selection-end-column="15" />
         </state>
       </provider>
     </entry>
